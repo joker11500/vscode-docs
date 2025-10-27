@@ -1,3 +1,4 @@
+**```python
 ---
 ContentId: 37fd3bd2-4209-49f6-bec5-c544d6b1b289
 DateApproved: 10/09/2025
@@ -268,3 +269,5 @@ You can further enhance your AI's capabilities by exploring other customization 
 * [Chat documentation](/docs/copilot/chat/copilot-chat.md) - Deep dive into autonomous coding in VS Code
 * [Customization guide](/docs/copilot/customization/overview.md) - Advanced personalization techniques
 * [MCP tools](/docs/copilot/customization/mcp-servers.md) - Extend agent mode with external APIs and services
+
+```**
